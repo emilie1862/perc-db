@@ -1,0 +1,21 @@
+# gradle
+.gradle/
+build/
+
+# npm
+node_modules/
+npm-debug.log
+npm-debug.log*
+
+# intellij
+*.iml
+.idea/
+
+# macos
+.DS_Store
+
+# latex
+out/
+
+# spring
+spring-shell.log
